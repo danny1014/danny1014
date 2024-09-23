@@ -1,9 +1,9 @@
 ## Profile
-💚 김규열.. <br>
-💙 1997.10.14 <br>
-📞 010-4300-4663 <br>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilbert.dev.kr@gmail.com)](mailto:gilbert.dev.kr@gmail.com) <span><a href="https://www.notion.so/bc886fea18974420aa8b0b34bdbf3ac1"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+Name 김규열.. <br>
+Birth 1997.10.14 <br>
+Phone 010-4300-4663 <br>
+Email danny1014@naver.com
+<span><a href="https://www.notion.so/1069cd67bbc580d58e15e89d5fa09136?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <br>
 
